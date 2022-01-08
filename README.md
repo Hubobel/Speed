@@ -1,2 +1,4 @@
 # Speed
-Work in Progress
+Import von:
+
+PyMySQL, speedtest-cli
